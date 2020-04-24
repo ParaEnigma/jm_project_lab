@@ -1,2 +1,3 @@
 This is my
+<inserted line>
 2nd file
